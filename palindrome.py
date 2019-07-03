@@ -1,0 +1,11 @@
+a=int(input())
+temporary=a
+reverse=0
+while(a>0):
+    tens=a%10
+    reverse=reverse*10+tens
+    a=a//10
+if(temporary==reverse):
+    print("yes")
+else:
+    print("not")
