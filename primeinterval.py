@@ -1,8 +1,8 @@
-p,q=map(int,input().split())
-for s in range(p,q):
-  if s>1:
-    for i in range(2,s):
-      if s%i==0:
+a,b=map(int,input().split())
+for c in range(a,b):
+  if c>1:
+    for i in range(2,c):
+      if c%i==0:
         break
     else:
-      print(s,end=" ")
+      print(c,end=" ")
