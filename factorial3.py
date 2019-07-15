@@ -1,6 +1,6 @@
-nums=int(input())
-facto=1
-while nums>0:
-  facto*=nums
-  nums=nums-1
-print(facto)
+num=int(input())
+fact=1
+while num>0:
+  fact*=num
+  num=num-1
+print(fact)
