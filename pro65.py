@@ -1,0 +1,2 @@
+zubair=input()
+print(zubair)
