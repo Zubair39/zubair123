@@ -26,4 +26,3 @@ if(int(s2[x1])==0):
 elif a1==1 and b1==2: print("011")
 else:
     print(s2)
-© 2019 GitHub, Inc.
