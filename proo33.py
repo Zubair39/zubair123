@@ -12,4 +12,3 @@ for x in range(0,len(n)-1):
     break
   else:
       print(n)
-© 2019 GitHub, Inc.
