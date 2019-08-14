@@ -1,4 +1,4 @@
-#s
+#m
     
 import statistics as st
 count=int(input())
