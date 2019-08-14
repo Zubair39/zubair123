@@ -25,4 +25,4 @@ for i in l:
       s+= 1
   print(s)
   s=0
-© 2019 GitHub, Inc.
+
